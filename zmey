@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+.g {
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
